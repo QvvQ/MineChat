@@ -1,7 +1,7 @@
 # DiscordMC by manuelgu
 # https://www.spigotmc.org/resources/17067/
 settings:
-  token: 'TOKEN_HERE'
+  token: 'MjY0ODc3MjU2NzAxMjQ3NDk5.C9kcww.VALGVwe_LwNwlCqJW-c_43CJSAY'
   send_game_login: true
   send_game_logout: true
   send_game_chat: true
@@ -19,10 +19,10 @@ settings:
     player_leave_minecraft: '%user left the game'
     chat_message_minecraft: '&b(discord [%channel]) &r%user >> %message'
   channels:
-    minecraft_to_discord:
+    minechat:
       - 'chatlog'
       - 'chatting'
-    discord_to_minecraft:
+    minechat:
       - 'chatting'
       - 'announcement'
   discord_commands:
